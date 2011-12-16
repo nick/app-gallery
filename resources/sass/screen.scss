@@ -1,0 +1,32 @@
+.appListItem {
+	img {
+		max-height: 50px;
+		margin-right: 10px;
+		vertical-align: bottom;
+	}
+	line-height: 50px;
+}
+
+.appDetails {
+	padding: 10px;
+	img { 
+		max-width: 80px;
+		margin: 0 10px 10px 0;
+		float: left;
+	}
+	.title {
+		font-size: 130%;
+		font-weight: bold;
+	}
+	.developer {
+		color: #666;
+		font-size: 80%;
+	}
+	.description {
+		clear: both;
+	}
+}
+
+.x-carousel-item .x-innerhtml {
+	text-align: center;
+}

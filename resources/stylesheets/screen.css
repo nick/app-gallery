@@ -1,0 +1,40 @@
+/* line 1, ../sass/screen.scss */
+.appListItem {
+  line-height: 50px;
+}
+/* line 2, ../sass/screen.scss */
+.appListItem img {
+  max-height: 50px;
+  margin-right: 10px;
+  vertical-align: bottom;
+}
+
+/* line 10, ../sass/screen.scss */
+.appDetails {
+  padding: 10px;
+}
+/* line 12, ../sass/screen.scss */
+.appDetails img {
+  max-width: 80px;
+  margin: 0 10px 10px 0;
+  float: left;
+}
+/* line 17, ../sass/screen.scss */
+.appDetails .title {
+  font-size: 130%;
+  font-weight: bold;
+}
+/* line 21, ../sass/screen.scss */
+.appDetails .developer {
+  color: #666;
+  font-size: 80%;
+}
+/* line 25, ../sass/screen.scss */
+.appDetails .description {
+  clear: both;
+}
+
+/* line 30, ../sass/screen.scss */
+.x-carousel-item .x-innerhtml {
+  text-align: center;
+}
